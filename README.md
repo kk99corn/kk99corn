@@ -20,4 +20,11 @@
   <img src="https://img.shields.io/badge/git-000000?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/SVN-7994bf?style=flat-square&logo=subversion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Confluence%20Jira&Wiki-114ec2?style=flat-square&logo=confluence&logoColor=white"/> 
-</p>
+</p><br/>
+
+<h3 align="center">< Blog /></h3>
+<p align="center">까먹을거 같으니까 나중에 쉽게 찾아보려고 시작한 <a href="https://hahahoho5915.tistory.com/" target="_blank">블로그</a>
+</p><br/>
+
+<h3 align="center">< Side Project /></h3>
+<p align="center">조금 더 일 편하게하려고 만들어본 크롬 확장프로그램 <a href="https://chrome.google.com/webstore/detail/vparam/cnbhfmblphlkhhnlkehbghbobfmemdim" target="_blank">vParam</a></p>
